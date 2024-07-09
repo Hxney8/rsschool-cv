@@ -1,1 +1,53 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: black;
+    
+}
 
+* {
+    align-items: center ;
+    box-sizing: border-box;
+    max-width: 500px;
+    margin: auto;
+}
+
+body background-color {
+    color: rgb(48, 42, 34);
+}
+nav {
+    display: flex;
+    justify-content: center;
+    
+}
+main photo.avatar {
+    max-width: 300px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.app_logo {
+    width: 300px;
+    height: 300px;
+
+
+}
+
+footer {
+    display: flex;
+    background-color: fff;
+}
+footer a {
+    margin-left: 10px;
+}
+
+.photo {
+ width: 200px;
+ height: 200px;
+}
+
+li {
+    list-style-type: none;
+}
